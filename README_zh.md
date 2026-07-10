@@ -75,7 +75,7 @@ fork-it 是一个**纯 SKILL.md 技能**——标准 Markdown 定义 + 共享 No
 # 直接从 npm 运行（自动装进每个已探测到的 agent）
 npx @gdwhisper/fork-it
 
-# 或从 GitHub 仓库直接运行，无需先发到 npm
+# 或从 GitHub 仓库直接运行
 npx github:GDWhisper/fork-it
 ```
 

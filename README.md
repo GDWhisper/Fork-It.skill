@@ -73,7 +73,7 @@ The fastest way — no clone needed:
 # Run directly from npm (installs into every detected agent)
 npx @gdwhisper/fork-it
 
-# Or run straight from the GitHub repo, no npm publish required
+# Or run straight from the GitHub repo
 npx github:GDWhisper/fork-it
 ```
 
