@@ -55,3 +55,6 @@ anthropic_index/
 
 # WorkBuddy project memory (agent-internal scratch, not a deliverable)
 .workbuddy/
+
+# Dev-only review/audit notes (not for public repo)
+SKILL_REVIEW.md
